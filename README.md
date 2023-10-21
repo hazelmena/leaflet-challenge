@@ -1,6 +1,6 @@
 # leaflet-challenge
 A project using the Leaflet library in JS to create an interactive data visualization tool.
-![Alt Text](Leafletmap.png)
+![Alt Text](Images/Leafletmap.png)
 
 ## Depolyment
 https://hazelmena.github.io/leaflet-challenge/
